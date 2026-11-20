@@ -1,0 +1,90 @@
+{
+  "sidebarTitles": true,
+  "defaultLibraries": "ifm-all;general",
+  "libraries": [
+    {
+      "title": {
+        "main": "ifm"
+      },
+      "entries": [
+        {
+          "id": "ifm-all",
+          "title": {
+            "main": "ifm All Libraries"
+          },
+          "desc": {
+            "main": "All ifm sensors, IO-Link masters, cables, power & machines"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "ifm - IO-Link masters, hubs & switches"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20IO-Link%20masters%2C%20hubs%20%26%20switches.xml"
+            },
+            {
+              "title": {
+                "main": "ifm - Sensors"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20Sensors.xml"
+            },
+            {
+              "title": {
+                "main": "ifm - Vibration & condition monitoring"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20Vibration%20%26%20condition%20monitoring.xml"
+            },
+            {
+              "title": {
+                "main": "ifm - Power supplies & distribution"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20Power%20supplies%20%26%20distribution.xml"
+            },
+            {
+              "title": {
+                "main": "ifm - Cables & connectors"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20Cables%20%26%20connectors.xml"
+            },
+            {
+              "title": {
+                "main": "ifm - Starter kits"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/ifm%20-%20Starter%20kits.xml"
+            },
+            {
+              "title": {
+                "main": "M12 cables"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/M12%20cables.xml"
+            },
+            {
+              "title": {
+                "main": "Wires & legend"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Wires%20%26%20legend.xml"
+            },
+            {
+              "title": {
+                "main": "Controllers, PCs, IT & meters"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Controllers%2C%20PCs%2C%20IT%20%26%20meters.xml"
+            },
+            {
+              "title": {
+                "main": "Machines"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Machines.xml"
+            },
+            {
+              "title": {
+                "main": "Icons"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Icons.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
