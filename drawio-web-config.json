@@ -1,5 +1,18 @@
 {
   "sidebarTitles": true,
+  "defaultEdgeStyle": {
+    "edgeStyle": "orthogonalEdgeStyle",
+    "rounded": "1",
+    "arcSize": "20",
+    "strokeWidth": "4",
+    "strokeColor": "#2E2E2E",
+    "startArrow": "oval",
+    "startFill": "1",
+    "startSize": "7",
+    "endArrow": "oval",
+    "endFill": "1",
+    "endSize": "7"
+  },
   "defaultLibraries": "ifm-all;general",
   "libraries": [
     {
