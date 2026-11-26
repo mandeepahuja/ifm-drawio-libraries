@@ -79,6 +79,12 @@
             },
             {
               "title": {
+                "main": "Protocols & fieldbuses"
+              },
+              "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Protocols%20%26%20fieldbuses.xml"
+            },
+            {
+              "title": {
                 "main": "Controllers, PCs, IT & meters"
               },
               "url": "https://mandeepahuja.github.io/ifm-drawio-libraries/Controllers%2C%20PCs%2C%20IT%20%26%20meters.xml"
